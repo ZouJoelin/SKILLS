@@ -97,6 +97,7 @@
 
 
 ## Git指南
+- 每次创建一个新项目都应当初始化一个新的 Git 仓库
 - commit 应保持小而聚焦，提交信息要有描述性，例如 `Add initial parser module` 或 `Create test scaffold`
 - Pull Request 应尽量小而集中，说明用户可见的变化，关联相关 issue，并在变更影响 CLI 或 UI 行为时附上命令输出或截图
 
